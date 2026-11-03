@@ -1,0 +1,1 @@
+# day2gh500-codeql-repo
